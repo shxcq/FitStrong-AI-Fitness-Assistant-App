@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240542183003",
+    "project_id": "aifitnessandcoachingapp",
+    "storage_bucket": "aifitnessandcoachingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240542183003:android:7c32382d998aa42afa597e",
+        "android_client_info": {
+          "package_name": "james.apt3056.aicoachfitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTpvAo6DPcwBzmbFqn4ZawJU3LtAPunQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
