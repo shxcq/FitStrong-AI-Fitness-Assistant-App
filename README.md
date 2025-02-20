@@ -1,4 +1,4 @@
-# 🏋️‍♂️ FitStrong AI – School Project 💪  
+# 🏋️‍♂️ FitStrong AI 
 
 FitStrong AI is a **Kotlin-based fitness tracking app** developed as a **school project**. It provides personalized workout plans, exercise tracking, AI-driven recommendations, and community challenges to help users stay fit.  
 
